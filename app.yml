@@ -1,0 +1,7 @@
+run:
+  command: ["node", ".next/standalone/server.js"]
+
+profile:
+  label: "Sales Command Center"
+  description: "AI-powered sales pipeline analytics with Cortex AI natural language querying"
+  icon: public/icon.svg
